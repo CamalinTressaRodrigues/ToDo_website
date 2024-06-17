@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+.todo-item input[type="checkbox"] {
+    margin-left: 10px;
+}
